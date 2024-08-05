@@ -1,0 +1,1 @@
+# hanger-with-ship-and-added-objects
